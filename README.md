@@ -1,2 +1,1 @@
-# 6DOF Robotic arm pick-place project
-Implementation of the pick&amp;place Project Udacity Robotics Nanodegree
+﻿﻿﻿# 6DOF Robotic arm pick-place projectImplementation of the pick&amp;place Project Udacity Robotics NanodegreeThe official web-page:https://github.com/udacity/RoboND-Kinematics-Project![](kuka.jpg)
